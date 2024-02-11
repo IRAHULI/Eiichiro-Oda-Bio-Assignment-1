@@ -1,0 +1,62 @@
+/* Created by: Rahul Imtiaz*/
+/* Student Number: 8941944*/
+
+body{
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    font: 20px/1.5 Arial, sans-serif;
+    padding: 20px;
+}
+.G1{
+    border: 6px solid black;
+    border-radius: 12px;
+    padding: 0.5px;
+    margin: 1px;
+
+}
+h1, h2{
+    color: darkred;
+    font-variant: small-caps;
+}
+footer p{
+    font-size: 1em;
+    color: #000;
+}
+
+main{
+    float: left;
+width: 590px;
+}
+aside{
+    float: right;
+    width: 290px;
+}
+footer{
+    clear: both;
+}
+
+.G2{
+    border: 5px solid black;
+}
+figcaption{
+    font-weight: bolder;
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: large;
+}
+ul li{
+    list-style: none;
+    line-height: 2;
+    padding:0px;
+}
+ul > li > a {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    color: yellow;
+}
